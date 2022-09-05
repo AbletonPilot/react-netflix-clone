@@ -1,0 +1,3 @@
+- React.js
+- Styled Component
+- [API - https://www.themoviedb.org](https://www.themoviedb.org/)
